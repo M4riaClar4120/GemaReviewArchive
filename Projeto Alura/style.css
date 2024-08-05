@@ -1,0 +1,39 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px
+}
+
+header{
+    border-bottom: solid 2px rgb(223, 200, 119);
+    padding: 20px;
+    font-size: 25px;
+    color: rgb(223, 200, 119);
+}
+
+.intro {
+    background: rgb(226, 118, 47);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+margin-right: 9%;
+}
+
+img{
+    height: 200px
+}
+
+.videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+}
+
+.todas-reviews{
+    padding-left: 25px;
+    padding-right: 25px;
+}
